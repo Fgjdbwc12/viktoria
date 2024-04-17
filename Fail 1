@@ -1,0 +1,8 @@
+@@ -1,4 +1,4 @@
+# <img style="vertical-align:middle;margin-right:10px;" width="100" alt="Calm" src="docs/images/calm.png"> Canvas and Lisp Magic
+# <img style="vertical-align:middle;margin-right:10px;" width="100" alt="Calm" src="docs/images/calm.png"> Canvas Aided Lisp Magic
+
+Calm down and draw something, in Lisp.
+
+@@ -9,12 +9,12 @@ Calm down and draw something, in Lisp.
+Find whatever directory, create a file: **canvas.lisp**
